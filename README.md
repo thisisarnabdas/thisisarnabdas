@@ -93,7 +93,6 @@
 
 <p><img align="left" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love connecting with diverse people</b> so if you wanna to say <b>hi, I'll be happy to meet you more!</b> :)</em></p>
 
-<a href="https://quine.sh/profile/thisisarnabdas"><img src="https://stats.quine.sh/thisisarnabdas/github?theme=dark" alt="thisisarnabdas's GitHub stats" width="400px"></a>
 [![thisisarnabdas's GitHub | Stats](https://stats.quira.sh/thisisarnabdas/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=thisisarnabdas)
 
 <img height="120" alt="Thank you for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
