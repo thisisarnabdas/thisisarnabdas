@@ -1,8 +1,9 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arnab Das</h1>
+<h3 align="center">A passionate Software Developer and Programmer from Bangladesh</h3>
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<h3 align="center">A passionate Software Developer and Programmer from Bangladesh</h3>
+
 
 </p>
 <img align="right" alt="Coding" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" style="width:420px ; height:300px ; border-radius: 25px; display: inline-block;" data-target="animated-image.originalImage">
