@@ -38,7 +38,7 @@
 
 <h2 align="center">My Contribution Streak !! :fire:</h2>
 
-<p align="center">
+<p align="left">
     <a>
     <a href="https://github.com/thisisarnabdas/github-readme-streak-stats">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thisisarnabdas&theme=dark" alt="GitHub Streak" /></a>
