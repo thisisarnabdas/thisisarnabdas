@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me ❤❤
 
-- 🔭 I’m currently working on Development & Machine Learning Projects.
+- 🔭 I’m currently working on Web Development & Machine Learning Projects.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
